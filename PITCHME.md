@@ -1,10 +1,10 @@
-# Curriculum Vitae of Daniel Hübner
+### Curriculum Vitae of Daniel Hübner
 
 ![Daniel Hübner](assets/images/daniel_huebner_2018.jpg)
 
 ---
 
-# Work experiance
+#### Work experiance
 
 <dl>
   <dt>idealo internet GmbH</dt>
@@ -28,7 +28,7 @@
 
 ---
 
-### Skills
+#### Skills
 
 - @color[#DC143C](Java 8): Advanced
 - @color[#DC143C](Spring & Spring Boot): Advanced
@@ -37,13 +37,15 @@
 
 ---
 
-### Personal
+#### Personal
 
 - @color[#DC143C](Music): Listen and play
 - @color[#DC143C](Painting): With pencil, crayon and brush
 - @color[#DC143C](Family): Proud father and husband
 
-### Contact information
+---
+
+#### Contact information
 
 - daniel.huebner@gmx.com
 - @DanielHuebner76
